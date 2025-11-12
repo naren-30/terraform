@@ -13,7 +13,7 @@ STEP 4:give command for execution
               Terraform apply
 
 STEP 5:check the instance created or not and login that instance using ssh 
-             Connection ssh -i "C:\Users\DELL\.ssh\eeeeeee.pem" ec2-user@ec2-13-202-80-91.ap-south-1.compute.amazonaws.com
+             Connection ssh -i "C:\Users\DELL\.ssh\keypair.pem" ec2-user@ec2-13-202-80-91.ap-south-1.compute.amazonaws.com
 
 STEP 6:check the docker container and databases are present in inside the 
              Container 
